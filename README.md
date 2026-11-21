@@ -13,7 +13,7 @@
 
 ---
 
-## 👾 Hakkımda
+## Hakkımda
 
 - 🔍 Açık kaynak güvenlik araçlarında ve uygulamalarda zafiyet araştırması yapıyorum
 - 🛡️ Bulgularımı sorumlu ifşa (responsible disclosure) ile bildiriyorum
@@ -21,7 +21,7 @@
 
 ---
 
-## 🏆 CVE Kayıtlarım
+## CVE Kayıtlarım
 
 | # | CVE | Hedef | Zafiyet | CVSS | Dil | Repo |
 |---|-----|-------|---------|------|-----|------|
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧰 Araçlar
+## Araçlar
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 İstatistikler
+## İstatistikler
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📫 İletişim
+## İletişim
 
 [![GitHub](https://img.shields.io/badge/GitHub-VulnSVNC-181717?style=flat-square&logo=github)](https://github.com/VulnSVNC)
 <!-- İstersen aç:
