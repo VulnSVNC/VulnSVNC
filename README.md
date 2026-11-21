@@ -1,25 +1,13 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VulnSVNC&fontSize=70&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Vulnerability%20Researcher%20%7C%20CVE%20Hunter&descAlignY=58&descSize=20">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:E3F2FD,50:D1C4E9,100:C8E6C9&height=220&section=header&text=VulnSVNC&fontSize=70&fontColor=1B5E20&animation=fadeIn&fontAlignY=38&desc=Vulnerability%20Researcher%20%7C%20CVE%20Hunter&descAlignY=58&descSize=20">
-  <img alt="VulnSVNC" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VulnSVNC&fontSize=70&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Vulnerability%20Researcher%20%7C%20CVE%20Hunter&descAlignY=58&descSize=20">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=VulnSVNC&fontSize=70&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Vulnerability%20Researcher%20%7C%20CVE%20Hunter&descAlignY=58&descSize=20&descColor=ffffff" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=OS+Command+Injection;Stack+Buffer+Overflow;Credential+Leakage;4+CVE+%7C+PoC+%26+Write-up">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1B5E20&center=true&vCenter=true&width=600&lines=OS+Command+Injection;Stack+Buffer+Overflow;Credential+Leakage;4+CVE+%7C+PoC+%26+Write-up">
-  <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=OS+Command+Injection;Stack+Buffer+Overflow;Credential+Leakage;4+CVE+%7C+PoC+%26+Write-up">
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B97A&center=true&vCenter=true&width=600&lines=OS+Command+Injection;Stack+Buffer+Overflow;Credential+Leakage;4+CVE+%7C+PoC+%26+Write-up" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=VulnSVNC&color=00ff9c&style=flat-square&label=PROFILE+VIEWS">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=VulnSVNC&color=2E7D32&style=flat-square&label=PROFILE+VIEWS">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=VulnSVNC&color=00ff9c&style=flat-square&label=PROFILE+VIEWS">
-</picture>
-![CVEs](https://img.shields.io/badge/CVEs-4-B71C1C?style=flat-square&logo=hackthebox&logoColor=white)
-![Highest CVSS](https://img.shields.io/badge/Highest_CVSS-9.6-B71C1C?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Offensive_Security-37474F?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=VulnSVNC&color=00B97A&style=for-the-badge&label=PROFILE+VIEWS)
+![CVEs](https://img.shields.io/badge/CVEs-4-B71C1C?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Highest CVSS](https://img.shields.io/badge/Highest_CVSS-9.6-B71C1C?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Offensive_Security-37474F?style=for-the-badge)
 
 </div>
 
@@ -59,22 +47,10 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VulnSVNC&show_icons=true&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=VulnSVNC&show_icons=true&theme=default&hide_border=true">
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=VulnSVNC&show_icons=true&theme=tokyonight&hide_border=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VulnSVNC&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VulnSVNC&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VulnSVNC&layout=compact&theme=tokyonight&hide_border=true">
-</picture>
+![Stats](https://github-readme-stats.vercel.app/api?username=VulnSVNC&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VulnSVNC&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VulnSVNC&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=VulnSVNC&theme=default&hide_border=true">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=VulnSVNC&theme=tokyonight&hide_border=true">
-</picture>
+![Streak](https://streak-stats.demolab.com?user=VulnSVNC&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
@@ -82,11 +58,7 @@
 
 ## İletişim
 
-[![GitHub](https://img.shields.io/badge/GitHub-VulnSVNC-37474F?style=flat-square&logo=github)](https://github.com/VulnSVNC)
-<!-- İstersen aç:
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KULLANICI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI)
--->
+[![GitHub](https://img.shields.io/badge/GitHub-VulnSVNC-37474F?style=for-the-badge&logo=github)](https://github.com/VulnSVNC)
 
 ---
 
@@ -94,10 +66,6 @@
 
 > ⚠️ Paylaştığım PoC'ler yalnızca eğitim ve yetkili güvenlik testleri içindir.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C8E6C9,100:E3F2FD&height=100&section=footer">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 
 </div>
