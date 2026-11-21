@@ -26,9 +26,9 @@
 | # | CVE | Hedef | Zafiyet | CVSS | Dil | Repo |
 |---|-----|-------|---------|------|-----|------|
 | 1 | **CVE-2026-115904** | Topluyo App | OS Command Injection | ![CVSS](https://img.shields.io/badge/9.6-CRITICAL-critical?style=flat-square) | JavaScript | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-115904) |
-| 2 | **CVE-2026-125399** | Fluxion | Zero-Click, Unauthenticated OS Command Injection (`eval()` ile ESSID) | ![CVSS](https://img.shields.io/badge/?-TBD-lightgrey?style=flat-square) | Shell | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-125399) |
-| 3 | **CVE-2026-133274** | THC-Hydra | `hydra-http-form.c` Set-Cookie Stack Buffer Overflow / DoS | ![CVSS](https://img.shields.io/badge/?-TBD-lightgrey?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133274) |
-| 4 | **CVE-2026-133305** | sqlmap | Cross-Origin Credential Leakage | ![CVSS](https://img.shields.io/badge/?-TBD-lightgrey?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133305) |
+| 2 | **CVE-2026-125399** | Fluxion | Zero-Click, Unauthenticated OS Command Injection (`eval()` ile ESSID) | ![CVSS](https://img.shields.io/badge/8.6-HIGH-critical?style=flat-square) | Shell | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-125399) |
+| 3 | **CVE-2026-133274** | THC-Hydra | `hydra-http-form.c` Set-Cookie Stack Buffer Overflow / DoS | ![CVSS](https://img.shields.io/badge/7.1-HIGH-critical?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133274) |
+| 4 | **CVE-2026-133305** | sqlmap | Cross-Origin Credential Leakage | ![CVSS](https://img.shields.io/badge/4.3-MEDIUM-medium?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133305) |
 
 ---
 
