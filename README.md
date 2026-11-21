@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VulnSVNC&fontSize=70&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20CVE%20Hunter&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VulnSVNC&fontSize=70&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Vulnerability%20Researcher%20%7C%20CVE%20Hunter&descAlignY=58&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=OS+Command+Injection;Stack+Buffer+Overflow;Credential+Leakage;4+CVE+%7C+PoC+%26+Write-up" />
 
@@ -15,9 +15,9 @@
 
 ## Hakkımda
 
-- 🔍 Açık kaynak güvenlik araçlarında ve uygulamalarda zafiyet araştırması yapıyorum
-- 🛡️ Bulgularımı sorumlu ifşa (responsible disclosure) ile bildiriyorum
-- 📝 Her CVE için PoC ve detaylı write-up yayınlıyorum
+-  Açık kaynak güvenlik araçlarında ve uygulamalarda zafiyet araştırması yapıyorum
+-  Bulgularımı sorumlu ifşa (responsible disclosure) ile bildiriyorum
+-  Her CVE için PoC ve detaylı write-up yayınlıyorum
 
 ---
 
@@ -28,7 +28,7 @@
 | 1 | **CVE-2026-115904** | Topluyo App | OS Command Injection | ![CVSS](https://img.shields.io/badge/9.6-CRITICAL-critical?style=flat-square) | JavaScript | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-115904) |
 | 2 | **CVE-2026-125399** | Fluxion | Zero-Click, Unauthenticated OS Command Injection (`eval()` ile ESSID) | ![CVSS](https://img.shields.io/badge/8.6-HIGH-critical?style=flat-square) | Shell | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-125399) |
 | 3 | **CVE-2026-133274** | THC-Hydra | `hydra-http-form.c` Set-Cookie Stack Buffer Overflow / DoS | ![CVSS](https://img.shields.io/badge/7.1-HIGH-critical?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133274) |
-| 4 | **CVE-2026-133305** | sqlmap | Cross-Origin Credential Leakage | ![CVSS](https://img.shields.io/badge/4.3-MEDIUM-medium?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133305) |
+| 4 | **CVE-2026-133305** | sqlmap | Cross-Origin Credential Leakage | ![CVSS](https://img.shields.io/badge/4.3-MEDIUM-orange?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133305) |
 
 ---
 
