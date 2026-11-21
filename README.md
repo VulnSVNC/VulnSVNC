@@ -12,26 +12,26 @@
 
 ---
 
-## Hakkımda
+## About Me
 
--  Açık kaynak güvenlik araçlarında ve uygulamalarda zafiyet araştırması yapıyorum
--  Bulgularımı sorumlu ifşa (responsible disclosure) ile bildiriyorum
--  Her CVE için PoC ve detaylı write-up yayınlıyorum
+- I research vulnerabilities in open-source security tools and applications
+- I report my findings through responsible disclosure
+- I publish a PoC and a detailed write-up for every CVE
 
 ---
 
-## CVE Kayıtlarım
+## My CVEs
 
-| # | CVE | Hedef | Zafiyet | CVSS | Dil | Repo |
-|---|-----|-------|---------|------|-----|------|
+| # | CVE | Target | Vulnerability | CVSS | Language | Repo |
+|---|-----|--------|---------------|------|----------|------|
 | 1 | **CVE-2026-115904** | Topluyo App | OS Command Injection | ![CVSS](https://img.shields.io/badge/9.6-CRITICAL-critical?style=flat-square) | JavaScript | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-115904) |
-| 2 | **CVE-2026-125399** | Fluxion | Zero-Click, Unauthenticated OS Command Injection (`eval()` ile ESSID) | ![CVSS](https://img.shields.io/badge/8.6-HIGH-F57C00?style=flat-square) | Shell | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-125399) |
+| 2 | **CVE-2026-125399** | Fluxion | Zero-Click, Unauthenticated OS Command Injection (via `eval()` on ESSID) | ![CVSS](https://img.shields.io/badge/8.6-HIGH-F57C00?style=flat-square) | Shell | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-125399) |
 | 3 | **CVE-2026-133274** | THC-Hydra | `hydra-http-form.c` Set-Cookie Stack Buffer Overflow / DoS | ![CVSS](https://img.shields.io/badge/7.1-HIGH-F57C00?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133274) |
 | 4 | **CVE-2026-133305** | sqlmap | Cross-Origin Credential Leakage | ![CVSS](https://img.shields.io/badge/4.3-MEDIUM-FFB300?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133305) |
 
 ---
 
-## Araçlar
+## Tools
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-## İstatistikler
+## Statistics
 
 <div align="center">
 
@@ -55,21 +55,20 @@
 
 ---
 
-## İletişim
+## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-VulnSVNC-181717?style=flat-square&logo=github)](https://github.com/VulnSVNC)
-<!-- İstersen aç:
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/KULLANICI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/KULLANICI)
+<!-- Uncomment if you want to add more:
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 -->
 
 ---
 
 <div align="center">
 
-> ⚠️ Paylaştığım PoC'ler yalnızca eğitim ve yetkili güvenlik testleri içindir.
+> ⚠️ The PoCs I share are for educational purposes and authorized security testing only.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer" />
 
 </div>
- 
