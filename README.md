@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=OS+Command+Injection;Stack+Buffer+Overflow;Credential+Leakage;6+CVE+%7C+PoC+%26+Write-up" />
 
-![CVEs](https://img.shields.io/badge/CVEs-4-red?style=flat-square&logo=hackthebox&logoColor=white)
+![CVEs](https://img.shields.io/badge/CVEs-6-red?style=flat-square&logo=hackthebox&logoColor=white)
 ![Highest CVSS](https://img.shields.io/badge/Highest_CVSS-9.6-critical?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Offensive_Security-black?style=flat-square)
 
