@@ -26,8 +26,8 @@
 |---|-----|-------|---------|------|-----|------|
 | 1 | **CVE-2026-115904** | Topluyo App | OS Command Injection | ![CVSS](https://img.shields.io/badge/9.6-CRITICAL-critical?style=flat-square) | JavaScript | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-115904) |
 | 2 | **CVE-2026-125399** | Fluxion | Zero-Click, Unauthenticated OS Command Injection (`eval()` ile ESSID) | ![CVSS](https://img.shields.io/badge/8.6-HIGH-F57C00?style=flat-square) | Shell | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-125399) |
-| 3 | **CVE-2026-133274** | THC-Hydra | `hydra-http-form.c` Set-Cookie Stack Buffer Overflow / DoS | ![CVSS](https://img.shields.io/badge/7.1-HIGH-F57C00?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133274) |
-| 4 | **CVE-2026-134753** | dsniff | Heap BUffer Overflow / RCE Risk Out-of-Bounds Write) | ![CVSS](https://img.shields.io/badge/8.3-HIGH-F57C00?style=flat-square) | C | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-134753) |
+| 3 | **CVE-2026-134753** | dsniff | Heap BUffer Overflow / RCE Risk Out-of-Bounds Write) | ![CVSS](https://img.shields.io/badge/8.3-HIGH-F57C00?style=flat-square) | C | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-134753) |
+| 4 | **CVE-2026-133274** | THC-Hydra | `hydra-http-form.c` Set-Cookie Stack Buffer Overflow / DoS | ![CVSS](https://img.shields.io/badge/7.1-HIGH-F57C00?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133274) |
 | 5 | **CVE-2026-133305** | sqlmap | Cross-Origin Credential Leakage | ![CVSS](https://img.shields.io/badge/4.3-MEDIUM-FFB300?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133305) |
 | 6 | **CVE-2026-134758** | Wfuzz | Stored XSS via HTML Report Printer | ![CVSS](https://img.shields.io/badge/4.7-MEDIUM-FFB300?style=flat-square) | Python | [PoC & Write-up](https://github.com/VulnSVNC/CVE-2026-133305) |
 
